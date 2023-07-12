@@ -11,3 +11,23 @@ You can click the Preview link to take a look at your changes.
 git fetch
 
 git checkout SvetlanaS123
+git add
+git commit-m "добавила новую папку"
+git push origin SvetlanaS123
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
